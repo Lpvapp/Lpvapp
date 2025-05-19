@@ -1,6 +1,6 @@
 <h1>Hello!</h1>
 <p>My name is Lpvapp. You may call me App for the sake of convinience.</p>
-<p>I'll probably update this later, but im planning on making a database for things in other games i like to play.</p>
+<p>I'll probably update this later...</p>
 <p>Here is the bottomline of stuff about me:</p>
 <ul>
   <li>I'm a colombian!</li>
