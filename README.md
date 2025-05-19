@@ -1,4 +1,13 @@
-## Hi there 👋
+<h1>Hello!</h1>
+<p>My name is Lpvapp. You may call me App for the sake of convinience.</p>
+<p>I'll probably update this later, but im planning on making a database for things in other games i like to play.</p>
+<p>Here is the bottomline of stuff about me:</p>
+<ul>
+  <li>I'm a colombian!</li>
+  <li>My pronouns are <b>He / Him</b>.</li>
+  <li>I know HTML, JavaScript, PHP, Java and a <i>little bit</i> of python.</li>
+  <li>Currently studying to become a software engineer. I'm not <i>quite</i> there yet, but i'll get there eventually.</li>
+</ul>
 
 <!--
 **Lpvapp/Lpvapp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
